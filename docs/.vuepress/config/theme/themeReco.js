@@ -14,7 +14,7 @@ module.exports = {
   // 最后更新时间
   lastUpdated: 'Last Updated', // string | boolean
   // 作者
-  author: '前端Up主',
+  author: '陈坚强',
 
   // 备案
   record: 'ICP 备案',
